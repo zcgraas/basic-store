@@ -1,0 +1,8 @@
+.jumbo{
+    padding-top: 2rem;
+    width: 100vw  !important;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
