@@ -1,0 +1,24 @@
+.collection{
+    overflow-x: hidden !important;
+    align-items: center;
+    background-color: #e9ecef !important;
+}
+
+.row-size{
+    align-items: center;
+    justify-content: space-around !important;
+    text-align: center;
+    padding-bottom: 2.5rem;
+    padding-top: 2.5rem;
+}
+
+.col-size{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.card-size{
+    justify-content: center;
+}
