@@ -1,6 +1,6 @@
 # Basic Store Theme
 
-<img src="https://i.pinimg.com/originals/88/c3/a3/88c3a34ef6f9e0e0c0921053240e8c7a.jpg" height="200" align="right">
+<img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/1809/posts/34783/image/digital-fashion-shopping-experience-setyono-dwi-utomo.png" height="200" align="right">
 
 > This is a work in progress!! I started this project with the intent of creating basic online store layout. 
 >
